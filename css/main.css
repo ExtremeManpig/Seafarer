@@ -537,9 +537,9 @@ table td:last-child {
 table td {
 	text-align: left;
 	padding:12px;
-	border-top: 1px solid #23B3D7;
-	border-bottom:1px soli #269CBB;
-	border-left: 1px solid #269CBB;
+	border-top: 1px solid #2bb8db;
+	border-bottom:1px soli #2bb8db;
+	border-left: 1px solid #2bb8db;
 	background: #2bb8db;
 	background: -webkit-gradient(linear, left top, left bottom, from(2bb8db), to(#269CBB));
 	background: -moz-linear-gradient(top,  #23B3D7,  #269CBB);
